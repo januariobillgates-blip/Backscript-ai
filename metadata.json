@@ -1,0 +1,6 @@
+{
+  "name": "BackdropShift",
+  "description": "Remove and replace video backgrounds in seconds — professional results, no green screen required.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
